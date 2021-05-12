@@ -1,2 +1,2 @@
-# anime-recommendations
-Working to create better anime recommendations!
+# Anime Recommendation System
+This project is intended to be a deep dive into recommending anime to the masses! The data currently being used for the project is from https://www.kaggle.com/CooperUnion/anime-recommendations-database. In the future, we hope to migrate to using the MyAnimeList API directly.
